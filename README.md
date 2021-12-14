@@ -1,4 +1,4 @@
-[![Header](./readme-header.png "Header")](https://movielike.nomoredomains.club)
+[![Header](./readme_header.png "Header")](https://movielike.nomoredomains.club)
 
 ## Hi there 👋
 
