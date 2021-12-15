@@ -1,7 +1,15 @@
 [![Header](./readme_header.png "Header")](https://movielike.nomoredomains.club)
 
 # Hi there! <img src="./hello.gif" width="30px">
+My name is Egor Bichurin. I'm frontend developer from Ufa, Russia. Also I can code simple backend on Node.js.
 
+I'm new at IT. For the last 10 years I have worked in the bank in sales. But I always dreamed of trying myself in web-development, madly in love with everything about frontend. So I took a chance to try to start over.
+
+So, this's just the beggining of my journey! &#x1f600;
+
+You can find my pet-projects below on the page &#x2b07;
+
+Always happy to work on something awesome together! &#x1f918;
 
 ## &#x1f527; Technologies and Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
